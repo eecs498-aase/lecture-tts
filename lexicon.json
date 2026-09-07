@@ -1,0 +1,301 @@
+{
+  "AASE": {
+    "ipa": "ˈAtˈuˈɛsˈi",
+    "say": "ay-too-ess-ee"
+  },
+  "aase": {
+    "ipa": "ˈAtˈuˈɛsˈi",
+    "say": "ay-too-ess-ee"
+  },
+  "EECS 498": {
+    "say": "eeks four ninety-eight",
+    "ci": true
+  },
+  "EECS498": {
+    "say": "eeks four ninety-eight",
+    "ci": true
+  },
+  "EECS": {
+    "say": "eeks",
+    "ci": true
+  },
+  "Qwen": {
+    "say": "kwen",
+    "ci": true
+  },
+  "qwen3.5:4b": {
+    "say": "Kwen three point five, four B",
+    "ci": true
+  },
+  "qwen3.5:9b": {
+    "say": "Kwen three point five, nine B",
+    "ci": true
+  },
+  "Ollama": {
+    "say": "oh-lah-mah",
+    "ci": true
+  },
+  "llama.cpp": {
+    "say": "llama C plus plus",
+    "ci": true
+  },
+  "Slidev": {
+    "say": "slide-dev",
+    "ci": true
+  },
+  "pytest": {
+    "say": "pie-test",
+    "ci": true
+  },
+  "uv": {
+    "say": "you-vee",
+    "ci": true
+  },
+  "numpy": {
+    "say": "num-pie",
+    "ci": true
+  },
+  "asyncio": {
+    "ipa": "ˌAsˈɪŋkˌIˌO",
+    "say": "a-sink-eye-oh",
+    "ci": true
+  },
+  "Kaltura": {
+    "say": "kal-too-rah",
+    "ci": true
+  },
+  "edstem": {
+    "say": "Ed",
+    "ci": true
+  },
+  "CAEN": {
+    "say": "cane"
+  },
+  "FERPA": {
+    "say": "fer-puh"
+  },
+  "UMich": {
+    "ipa": "jumˈɪʃ",
+    "say": "you-mish",
+    "ci": true
+  },
+  "U-M": {
+    "say": "you-em"
+  },
+  "L00": {
+    "say": "Lecture zero"
+  },
+  "L01": {
+    "say": "Lecture one"
+  },
+  "L02": {
+    "say": "Lecture two"
+  },
+  "L03": {
+    "say": "Lecture three"
+  },
+  "L04": {
+    "say": "Lecture four"
+  },
+  "L05": {
+    "say": "Lecture five"
+  },
+  "L06": {
+    "say": "Lecture six"
+  },
+  "L07": {
+    "say": "Lecture seven"
+  },
+  "L08": {
+    "say": "Lecture eight"
+  },
+  "L09": {
+    "say": "Lecture nine"
+  },
+  "L10": {
+    "say": "Lecture ten"
+  },
+  "L11": {
+    "say": "Lecture eleven"
+  },
+  "L12": {
+    "say": "Lecture twelve"
+  },
+  "L13": {
+    "say": "Lecture thirteen"
+  },
+  "L14": {
+    "say": "Lecture fourteen"
+  },
+  "L15": {
+    "say": "Lecture fifteen"
+  },
+  "L16": {
+    "say": "Lecture sixteen"
+  },
+  "L17": {
+    "say": "Lecture seventeen"
+  },
+  "L18": {
+    "say": "Lecture eighteen"
+  },
+  "L19": {
+    "say": "Lecture nineteen"
+  },
+  "L20": {
+    "say": "Lecture twenty"
+  },
+  "L21": {
+    "say": "Lecture twenty-one"
+  },
+  "L22": {
+    "say": "Lecture twenty-two"
+  },
+  "L23": {
+    "say": "Lecture twenty-three"
+  },
+  "L24": {
+    "say": "Lecture twenty-four"
+  },
+  "L25": {
+    "say": "Lecture twenty-five"
+  },
+  "L26": {
+    "say": "Lecture twenty-six"
+  },
+  "L27": {
+    "say": "Lecture twenty-seven"
+  },
+  "L28": {
+    "say": "Lecture twenty-eight"
+  },
+  "Lab00": {
+    "say": "Lab zero",
+    "ci": true
+  },
+  "Lab01": {
+    "say": "Lab one",
+    "ci": true
+  },
+  "Lab02": {
+    "say": "Lab two",
+    "ci": true
+  },
+  "Lab03": {
+    "say": "Lab three",
+    "ci": true
+  },
+  "Lab04": {
+    "say": "Lab four",
+    "ci": true
+  },
+  "Lab05": {
+    "say": "Lab five",
+    "ci": true
+  },
+  "Lab06": {
+    "say": "Lab six",
+    "ci": true
+  },
+  "Lab07": {
+    "say": "Lab seven",
+    "ci": true
+  },
+  "Lab08": {
+    "say": "Lab eight",
+    "ci": true
+  },
+  "Lab09": {
+    "say": "Lab nine",
+    "ci": true
+  },
+  "Lab10": {
+    "say": "Lab ten",
+    "ci": true
+  },
+  "Lab11": {
+    "say": "Lab eleven",
+    "ci": true
+  },
+  "Lab12": {
+    "say": "Lab twelve",
+    "ci": true
+  },
+  "Lab13": {
+    "say": "Lab thirteen",
+    "ci": true
+  },
+  "Lab14": {
+    "say": "Lab fourteen",
+    "ci": true
+  },
+  "F1": {
+    "say": "feature one"
+  },
+  "F2": {
+    "say": "feature two"
+  },
+  "F3": {
+    "say": "feature three"
+  },
+  "F4": {
+    "say": "feature four"
+  },
+  "F5": {
+    "say": "feature five"
+  },
+  "F6": {
+    "say": "feature six"
+  },
+  "F7": {
+    "say": "feature seven"
+  },
+  "Agent v0": {
+    "say": "agent V zero",
+    "ci": true
+  },
+  "/add": {
+    "say": "slash add"
+  },
+  "/drop": {
+    "say": "slash drop"
+  },
+  "/tokens": {
+    "say": "slash tokens"
+  },
+  "/clear": {
+    "say": "slash clear"
+  },
+  "main.py": {
+    "say": "main dot pie"
+  },
+  "overview.md": {
+    "say": "overview dot em dee"
+  },
+  "slides.md": {
+    "say": "slides dot em dee"
+  },
+  ".py": {
+    "say": " dot pie"
+  },
+  ".md": {
+    "say": " dot em dee"
+  },
+  "Python 3.11": {
+    "say": "Python three point eleven"
+  },
+  "Python 3.12": {
+    "say": "Python three point twelve"
+  },
+  "Python 3.13": {
+    "say": "Python three point thirteen"
+  },
+  "eecs498-aase.github.io": {
+    "say": "the course site",
+    "ci": true
+  },
+  "https://eecs498-aase.github.io": {
+    "say": "the course site",
+    "ci": true
+  }
+}

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+# speak writes audio next to the script it was given; nothing generated
+# belongs in here.
+audio/
+*.wav
+*.m4a
+*.mp3
