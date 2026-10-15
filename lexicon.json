@@ -297,5 +297,13 @@
   "https://eecs498-aase.github.io": {
     "say": "the course site",
     "ci": true
+  },
+  "JSON": {
+    "ipa": "ʤˈAsᵊn",
+    "say": "jay-son"
+  },
+  "YAML": {
+    "ipa": "jˈæmᵊl",
+    "say": "yam-ul"
   }
 }
