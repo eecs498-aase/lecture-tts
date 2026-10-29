@@ -305,5 +305,13 @@
   "YAML": {
     "ipa": "jˈæmᵊl",
     "say": "yam-ul"
+  },
+  "id": {
+    "say": "I-D",
+    "ci": true
+  },
+  "ids": {
+    "say": "I-Dees",
+    "ci": true
   }
 }
